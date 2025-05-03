@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dynamicendpoints-paloalto-mcp-server-badge.png)](https://mseep.ai/app/dynamicendpoints-paloalto-mcp-server)
+
 # Palo Alto Networks MCP Server Suite
 
 [![smithery badge](https://smithery.ai/badge/@DynamicEndpoints/paloalto-mcp-server)](https://smithery.ai/server/@DynamicEndpoints/paloalto-mcp-server)
